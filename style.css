@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    font-size: 50px;
+    color: white;
+}
+h2{
+    font-size: 30px;
+    color: white;
+}
+img{
+    width: 300px; height: 300px;
+}
+button{
+    background-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(124, 124, 124);
+    color: white;
+    margin-top: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
